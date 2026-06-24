@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# AI crawlers explicitly allowed (GEO/AI-citation half of the traffic thesis)
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://urbanretreat22-ctrl.github.io/highrisk-payments/sitemap.xml
