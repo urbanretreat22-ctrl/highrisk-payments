@@ -11,4 +11,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://urbanretreat22-ctrl.github.io/highrisk-payments/sitemap.xml
+Sitemap: https://kashupayments.com/sitemap.xml
